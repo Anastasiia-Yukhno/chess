@@ -1,0 +1,46 @@
+.connect {
+    display: flex;
+    flex-direction: row;
+    font-family:  DejaVu Sans Mono, monospace;
+    padding-bottom: 20px;
+}
+.connectLabel {
+    font-size: 20px;
+    margin-left: 10px;
+    font-family:  DejaVu Sans Mono, monospace;
+}
+.form-login{
+    margin: auto;
+    width: 20%;
+    padding-top: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.form-login span {
+    color: white;
+    padding-bottom: 20px;
+    font-size: 20px;
+    align-self: center;
+    font-family:  DejaVu Sans Mono, monospace;
+}
+.form-container {
+    display: flex;
+}
+.inputName {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family:  DejaVu Sans Mono, monospace;
+}
+.btnReady {
+    padding-bottom: 20px;
+
+}
+.btnPlay {
+    width: 50%;
+
+}
+.btnPlay button {
+    padding: 10px 30px;
+}
