@@ -6,6 +6,10 @@ import { getNewPosition, state as stateGlobal } from './store/state';
 
 //let positions = ['&#9814;', '&#9816;', '&#9815;', '&#9813;', '&#9812', '&#9815;', '&#9816;', '&#9814;', '&#9817;', '&#9817;', '&#9817;', '&#9817;', '&#9817;', '&#9817;', '&#9817;', '&#9817;', undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, '&#9823', '&#9823', '&#9823', '&#9823', '&#9823', '&#9823', '&#9823', '&#9823', '&#9820;', '&#9822;', '&#9821;', '&#9819;', '&#9818;', '&#9821;', '&#9822;', '&#9820;']
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 73df709e14e2ea745d768383dfdec1722ce56851
 let clickState = {
     isSelect: false,
     isMove: false,
@@ -15,6 +19,11 @@ let clickState = {
     lightedCells: [],
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 73df709e14e2ea745d768383dfdec1722ce56851
 let gameScore = {
     player1: [],
     player2: [],

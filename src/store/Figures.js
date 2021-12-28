@@ -1,12 +1,22 @@
+<<<<<<< HEAD
 import { state } from "./state"
 
+=======
+ 
+>>>>>>> 73df709e14e2ea745d768383dfdec1722ce56851
 class Figures {
     constructor(player, value, style) {
         this.player = player
         this.value = value
         this.style = style
     }
+<<<<<<< HEAD
 }
+=======
+} 
+
+
+>>>>>>> 73df709e14e2ea745d768383dfdec1722ce56851
 
 export class King extends Figures{
     constructor(player, value, style) {
